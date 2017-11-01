@@ -42,6 +42,7 @@ Currently known supported models:
 - D7000
 - D8000
 - ES5500
+- ES5700
 - ES6800
 - F6300
 - F6500
